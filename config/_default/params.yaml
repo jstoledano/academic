@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: ocean
 day_night: true
 font: ''
 font_size: L
@@ -13,25 +13,25 @@ font_size: L
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+local_business_type: 'ProfessionalService'
+org_name: 'toledano.org'
+description: 'Sitio personal de Javier Sanchez Toledano'
+twitter: 'jstoledano'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: javier@toledano.org
+phone: 246 177 6996
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Fracc. Los Pinos E9 D4
+  city: Tlaxcala
+  region: TLX
+  postcode: '90110'
+  country: Mexico
+  country_code: MX
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '19.2'
+  longitude: '-98.2'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
@@ -41,7 +41,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/jstoledano'
   - icon: skype
     icon_pack: fab
     name: Skype Me
@@ -49,7 +49,7 @@ contact_links:
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
-    link: 'https://keybase.io/'
+    link: 'https://keybase.io/toledano'
   - icon: comments
     icon_pack: fas
     name: Discuss on Forum
@@ -61,7 +61,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
@@ -77,9 +77,9 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
-privacy_pack: false
+math: true
+diagram: true
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
