@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2018
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,7 +27,7 @@ experience:
     company_url: 'https://ine.mx'
     # company_logo: org-gc
     location: Tlaxcala
-    date_start: 2018-01-01
+    date_start: '2018-01-01'
     date_end: ''
     description: Generar consultas a las bases de datos del Padrón Electoral a solicitud de las representaciones de los Partidos Políticos en bases de datos Oracle en entornos Red Hat Enterprise Linux.
         

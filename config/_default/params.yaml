@@ -20,40 +20,32 @@ twitter: 'jstoledano'
 
 # Contact (edit or remove options as required)
 
-email: javier@toledano.org
-phone: 246 177 6996
-address:
-  street: Fracc. Los Pinos E9 D4
-  city: Tlaxcala
-  region: TLX
-  postcode: '90110'
-  country: Mexico
-  country_code: MX
-coordinates:
-  latitude: '19.2'
-  longitude: '-98.2'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+email: javier (en) toledano.org
+# phone: 246 177 6996
+# address:
+#   street: Fracc. Los Pinos E9 D4
+#   city: Tlaxcala
+#   region: TLX
+#   postcode: '90110'
+#   country: Mexico
+#   country_code: MX
+# coordinates:
+#   latitude: '19.2'
+#   longitude: '-98.2'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+# office_hours:
+#   - 'Monday 10:00 to 13:00'
+#   - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Escríbeme
     link: 'https://twitter.com/jstoledano'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
     link: 'https://keybase.io/toledano'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
 
 # Site header
 

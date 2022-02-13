@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: Popular Topics
-subtitle: ''
+title: Temas
+subtitle: 'Tópicos sobre los que escribo'
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)

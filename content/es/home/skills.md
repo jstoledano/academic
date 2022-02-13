@@ -29,17 +29,18 @@ feature:
   icon_pack: fas
   name: Bases de Datos
 - description: 100%
-  icon: file-certificate
+  icon: certificate
   icon_pack: fas
   name: ISO-9001
 - description: 80%
-  icon: map-location-dot
+  icon: map-marked-alt
   icon_pack: fas
   name: QGis
 - description: 100%
   icon: ubuntu
-  icon_pack: fas
+  icon_pack: fab
   name: Linux
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

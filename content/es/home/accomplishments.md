@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Logros'
+title: 'Certificaciones'
 subtitle:
 
 # Date format
@@ -23,30 +23,51 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://cutt.ly/uPee5uS
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
+  date_start: "2021-06-19"
+  description: 
+  organization: Microsoft
+  organization_url: https://certiport.pearsonvue.com/
+  title: Microsoft Azure Fundamentals
+  url: "https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/"
+
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/8E5S9U6R7TU6
+  date_end: ""
+  date_start: "2020-07-30"
+  description: 
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Introduction to Data Science in Python
   url: ""
-- certificate_url: https://www.edx.org
+
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/ZDHQHSD378Y6
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_start: "2020-05-15"
+  description: 
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: The Data Scientist’s Toolbox
   url: ""
+
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/E2VLWB9VJJHH
+  date_end: ""
+  date_start: "2020-05-15"
+  description: 
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Introducción a Data Science - Programación Estadística con R
+  url: ""
+
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-05-15"
+  description: 
+  organization: Bureau Veritas GroupBureau
+  organization_url: https://www.bureauveritas.com.mx/
+  title: ISO 9000 2000 Lead Auditor IRCA Certificated A17024ISO
+  url: "https://www.bureauveritasformacion.com/auditor-interno-de-calidad-iso-9001-1828.aspx"
+
 
 design:
   columns: '2' 
