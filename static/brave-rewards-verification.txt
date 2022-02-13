@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: toledano.org
+Token: d1d4ea020df0699e52e54510638a53e6f8c32159231f5d399a08028772d4bd04

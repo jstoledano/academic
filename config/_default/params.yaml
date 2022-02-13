@@ -69,6 +69,9 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
+  - python
+  - swift
+  - c
 math: true
 diagram: true
 privacy_pack: true
@@ -113,7 +116,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  provider: 'disqus'
   commentable:
     post: true
     book: true
@@ -121,7 +124,7 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: ''
+    shortname: 'toledano'
     show_count: true
   commento:
     url: ''
@@ -137,11 +140,9 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
+  google_analytics: 'G-N4FHCY3BSZ'
+  microsoft_clarity: "aluttx722i"
+  google_site_verification: 'hiMLLh1Fgb1J0rpXE4fw3zc7rRzKzbsg0y3c-6gujw0'
 cms:
   branch: master
   local_backend: false
